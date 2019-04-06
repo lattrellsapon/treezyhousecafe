@@ -1,0 +1,26 @@
+{
+  "name": "all-day-every-day-breakfast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lattrellsapon/treezyhousecafe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lattrellsapon/treezyhousecafe/issues"
+  },
+  "homepage": "https://github.com/lattrellsapon/treezyhousecafe#readme"
+}
